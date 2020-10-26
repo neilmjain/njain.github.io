@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image:url(Background.jpg );
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Gloria Hallelujah', cursive;
+    
+}
+ol {
+    list-style-position: inside;
+}
+body {
+    color: blue;
+}
